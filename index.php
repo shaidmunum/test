@@ -38,7 +38,7 @@
         </div>
          
              <div class="rightcontent_wraper" >
-        right content
+        right content is nicekjbhgiu juhOWNJ UQIH B
              </div>
     
            
