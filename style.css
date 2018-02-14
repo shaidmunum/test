@@ -16,13 +16,13 @@ body{
 img{
     padding: 0px;
     width:900px;
-    height: 100px;
+    height: 200px;
     margin:0 auto;
 }
 .header_wraper{
     background:yellow;
     width: 900px;
-    height: 100px;
+    height: 200px;
     margin:0 auto;
     
 }

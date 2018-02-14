@@ -14,7 +14,7 @@
           
           
            <div  class="header_wraper">
-           <img src="1.jpeg" >
+           <img src="2.jpeg" >
              
           </div>
           
@@ -38,7 +38,8 @@
         </div>
          
              <div class="rightcontent_wraper" >
-        right content is nicekjbhgiu juhOWNJ UQIH B
+       <H1>WE MAKE YOU FEEL EASIER IN SELETING THINGS...</H1>
+
              </div>
     
            
