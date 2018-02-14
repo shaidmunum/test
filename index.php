@@ -23,7 +23,7 @@
           
       <div id="navbar">
         <ul id="menu">
-            <li> <a href="#" >HOME</a></li>
+            <li> <a href="#" >Hello</a></li>
             <li> <a href="#" >ALL PRODUCTS</a></li>
             <li> <a href="#" >MY ACCOUNT</a></li>
             <li> <a href="#" >SIGN UP</a></li>
