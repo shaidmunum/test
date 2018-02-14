@@ -45,12 +45,17 @@ img{
     list-style: none;
     display :inline;
 }
-#menu a{
+#menu a {
     color:  #27b364 ;
     font-size: 18px;
     text-decoration: none;
     padding: 10px;
     margin: 8px;
+}
+#menu a:hover {
+    text-decoration: blink;
+    color: #7f0e6a ;
+    font-weight: bold;
 }
 .content_wraper{
     
